@@ -24,9 +24,10 @@ import michaels from "./company/michaels.png";
 import st from "./company/ST.png"
 import qinaps from "./company/qinaps.png"
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import product from "./product.png";
+import boucan from "./boucan.png";
+import avalanche from "./avalanche.svg";
+import portfolio from "./portfolio.png"
 
 export {
   logo,
@@ -52,7 +53,8 @@ export {
   qinaps,
   michaels,
   st,
-  carrent,
-  jobit,
-  tripguide,
+  product,
+  avalanche,
+  portfolio,
+  boucan
 };

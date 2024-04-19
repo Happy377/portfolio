@@ -2,12 +2,9 @@ import {
     mobile,
     backend,
     web,
-    css,
     docker,
     figma,
     git,
-    html,
-    javascript,
     mongodb,
     reactjs,
     sql,
@@ -20,9 +17,10 @@ import {
     qinaps,
     michaels,
     st,
-    carrent,
-    jobit,
-    tripguide,
+    boucan,
+    avalanche,
+    portfolio,
+    product,
   } from "../assets";
   
   export const navLinks = [
@@ -170,13 +168,13 @@ import {
           color: "orange-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: boucan,
+      source_code_link: "https://github.com/Happy377/Boucan",
     },
     {
       name: "Personal Portfolio",
       description:
-        "Web application where users can get to know me as a recent computer science graduate and download my resume",
+        "Web application where users can get to know me as a recent computer science graduate",
       tags: [
         {
           name: "react",
@@ -187,13 +185,13 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: portfolio,
+      source_code_link: "https://github.com/Happy377/portfolio",
     },
     {
       name: "Avalanche",
       description:
-        "Mobile skiing platform enabling the users to manage their skying passes accross multiple resorts and allowing them scanned via NFC. Done in an Academic context",
+        "Mobile skiing platform enabling the users to manage their skying passes accross multiple resorts and allowing them scanned via NFC. Done in an Academic context.",
       tags: [
         {
           name: "Kotlin",
@@ -204,13 +202,13 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: avalanche,
+      source_code_link: "https://github.com/stupside/avalanche-android",
     },
     {
       name: "Product ordering service",
       description:
-        "Web platform where users can place an order comprised of multiple items through an API. Done in an Academic Context",
+        "REST API where users can place an order comprised of multiple items through an API. Done in an Academic Context",
       tags: [
         {
           name: "Flask",
@@ -225,7 +223,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: product,
       source_code_link: "https://github.com/",
     },
   ];

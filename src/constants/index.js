@@ -149,7 +149,7 @@ import {
     {
       name: "Boucan !In development!",
       description:
-        "Web Application that allows users to search information on French speaking communities accross the World through interactive Maps; following the guidelines of the 2013 Ontario Core French Curriculum",
+        "Web Application that allows users to search information on French speaking communities accross the World through interactive Maps; following the guidelines of the 2013 Ontario Core French Curriculum. Repository Private for Security purposes.",
       tags: [
         {
           name: "vue",
@@ -208,7 +208,7 @@ import {
     {
       name: "Product ordering service",
       description:
-        "REST API where users can place an order comprised of multiple items through an API. Done in an Academic Context",
+        "REST API to place an order comprised of multiple items through an API. Done in an Academic Context",
       tags: [
         {
           name: "Flask",

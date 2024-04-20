@@ -44,7 +44,7 @@ const About = () => {
       
       {/*fadeIn has 4 parameters: direction, type, delay and duration*/}
       <motion.p variants={fadeIn("","", 0,5)} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-        Positions I'm aiming to work in
+        Positions I'm aiming to work in:
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

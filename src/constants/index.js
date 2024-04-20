@@ -130,7 +130,7 @@ import {
       iconBg: "#E6DEDD",
       date: "March 2022 - June 2022",
       points: [
-        "Independently supplied and distributed silicone sheets to workshops in the factory's clean room, assisting in the production of microchips",
+        "Independently supplied and distributed silicone sheets to workshops in the factory's clean room, assisting in the production of microchips,",
       ],
     },
     {
@@ -140,14 +140,14 @@ import {
       iconBg: "#E6DEDD",
       date: "Summers of 2018 to 2023",
       points: [
-        "Planned, led, and supervised French campers in various workshops, games, and activities to improve their oral English skills",
+        "Planned, led, and supervised French campers in various workshops, games, and activities to improve their oral English skills.",
       ],
     },
   ];
   
   const projects = [
     {
-      name: "Boucan !In development!",
+      name: "Boucan (In development)",
       description:
         "Web Application that allows users to search information on French speaking communities accross the World through interactive Maps; following the guidelines of the 2013 Ontario Core French Curriculum. Repository Private for Security purposes.",
       tags: [
@@ -191,7 +191,7 @@ import {
     {
       name: "Avalanche",
       description:
-        "Mobile skiing platform enabling the users to manage their skying passes accross multiple resorts and allowing them scanned via NFC. Done in an Academic context.",
+        "Mobile skiing platform enabling the users to manage their skying passes accross multiple resorts and allowing them scanned via NFC. Done in an academic context.",
       tags: [
         {
           name: "Kotlin",
@@ -208,7 +208,7 @@ import {
     {
       name: "Product ordering service",
       description:
-        "REST API to place an order comprised of multiple items through an API. Done in an Academic Context",
+        "REST API to place an order comprised of multiple items through an API. Done in an academic context.",
       tags: [
         {
           name: "Flask",
@@ -224,7 +224,7 @@ import {
         },
       ],
       image: product,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Happy377/ProjetInf349_Dane_REEVES",
     },
   ];
   

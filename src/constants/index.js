@@ -174,7 +174,7 @@ import {
     {
       name: "Personal Portfolio",
       description:
-        "Web application where users can get to know me as a recent computer science graduate",
+        "Web application where users can get to know me as a recent computer science graduate.",
       tags: [
         {
           name: "react",
